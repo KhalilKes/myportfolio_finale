@@ -53,8 +53,7 @@
 										based on Youssoufia! a first chapter beginning for our Hero, towards
 										a journey full of code , bugs , and a lot of coffee !! <br>
 
-										<a href="pdfs/CV_khalil.pdf"><button id="hire">Continue the
-												story</button>
+										<a href="pdfs/CV_Kessa_Khalil.pdf"><button id="hire">The Resume of the Story</button>
 									</p>
 
 									</a>
@@ -168,8 +167,8 @@
 									<div class="text">
 										<h3>Python Quest 2</h3>
 										<p>Training sessions on Python...</p>
-										<button class="padd"><i class="fab fa-github" aria-hidden="true"></i> Source
-											Code</button>
+										<a href="https://github.com/KhalilKes/simpleconverterpy"> <button class="padd"><i class="fab fa-github" aria-hidden="true"></i> Source
+											Code</button></a>
 									</div>
 								</article>
 
